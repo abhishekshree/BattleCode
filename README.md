@@ -1,6 +1,5 @@
-# Battlecode 2021 Scaffold
+# The Night's Watch
 
-This is the Battlecode 2021 scaffold, containing an `examplefuncsplayer`. Read https://2021.battlecode.org/getting-started!
 
 ### Project Structure
 
@@ -32,4 +31,9 @@ This is the Battlecode 2021 scaffold, containing an `examplefuncsplayer`. Read h
     Runs a game with the settings in gradle.properties
 - `./gradlew update`
     Update to the newest version! Run every so often
-
+    
+### Team Members:
+Abhishek Shree
+Hitesh Anand
+Shubh Kumar
+Kaustav Prasad
