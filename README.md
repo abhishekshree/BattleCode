@@ -1,6 +1,13 @@
 # The Night's Watch
 
-
+### Brief
+This is our submission for BattleCode 2021, though we didn't qualify for the finals, we managed getting to the 19<sup>th</sup> position as the best rank. This has been a lot of learnig for all of us and we hope to come back next year too.<br>
+Highest Score: 1284 <br><br>
+Some stats from scrimmages:
+- Current rank: 184
+- Won: 155
+- Lost: 167
+---
 ### Project Structure
 
 - `README.md`
@@ -33,7 +40,9 @@
     Update to the newest version! Run every so often
     
 ### Team Members:
-Abhishek Shree
-Hitesh Anand
-Shubh Kumar
-Kaustav Prasad
+<ul>
+    <li>Shubh Kumar (IIT Bombay)
+    <li>Abhishek Shree (IIT Kanpur)
+    <li>Hitesh Anand (IIT Kanpur)
+    <li>Kaustav Prasad (IIT Bombay)
+</ul>
